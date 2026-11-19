@@ -187,7 +187,5 @@ Pasta de cada perfume em `perfumes/` e o nome completo. Links diretos no formato
 
 ## Fotos padrão
 
-- `padrao/capacidade-ate-8ml.jpg` — volumetrias até 8 ml
-- `padrao/capacidade-ate-15ml.jpg` — volumetrias de 9 a 15 ml
-- `padrao/autonomia-borrifadas.jpg`
-- `padrao/avaliacao.jpg`
+- `padrao/volume-do-decant.jpg` — frascos de 3 mL e 5 mL (volume do decant)
+- `padrao/perfume-sempre-a-mao.jpg` — decant Casa dos Splits, formato compacto
