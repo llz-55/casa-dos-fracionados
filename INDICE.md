@@ -220,6 +220,7 @@ Pasta de cada perfume em `perfumes/` e o nome completo. Links diretos no formato
 | [SOS-VBN](perfumes/SOS-VBN) | Sospiro Vibranna | 3 |
 | [SOS-VBT](perfumes/SOS-VBT) | Sospiro Vibrato | 3 |
 | [TFR-SAPP](perfumes/TFR-SAPP) | The Fragrance Saphirre Passion | 3 |
+| [TFR-TIGE](perfumes/TFR-TIGE) | The Fragrance Tiger Eye Power | 3 |
 | [THA-CAOU](perfumes/THA-CAOU) | Thameen Carved Oud | 3 |
 | [THA-GRPE](perfumes/THA-GRPE) | Thameen Green Pearl | 3 |
 | [TTE-ARRA](perfumes/TTE-ARRA) | Tiziana Terenzi Arrakis | 3 |
