@@ -236,5 +236,5 @@ Pasta de cada perfume em `perfumes/` e o nome completo. Links diretos no formato
 ## Fotos padrão
 
 - `padrao/volume-do-decant.jpg` — frascos de 3 mL e 5 mL (volume do decant)
-- `padrao/perfume-sempre-a-mao.jpg` — decant Casa dos Splits, formato compacto
+- `padrao/perfume-sempre-a-mao.jpg` — decant Casa dos Fracionados, formato compacto
 - `padrao/decant-casa-dos-fracionados.jpg` — foto do decant sozinho, centralizado
