@@ -57,9 +57,9 @@ Pasta de cada perfume em `perfumes/` e o nome completo. Links diretos no formato
 | [FDM-PICC](perfumes/FDM-PICC) | Fabbrica Della Musa Piccadilly | 4 |
 | [FDM-TRIB](perfumes/FDM-TRIB) | Fabbrica Della Musa Tribeca Vibes | 4 |
 | [FER-BLAC](perfumes/FER-BLAC) | Ferrari Black | 4 |
-| [FER-RED](perfumes/FER-RED) | Scuderia Ferrari Racing Red | 3 |
+| [FER-RED](perfumes/FER-RED) | Scuderia Ferrari Racing Red | 4 |
 | [GFB-INGI](perfumes/GFB-INGI) | Goldfield & Banks Ingenious Ginger | 3 |
-| [GFB-PRM](perfumes/GFB-PRM) | Goldfield & Banks Pacific Rock Moss | 3 |
+| [GFB-PRM](perfumes/GFB-PRM) | Goldfield & Banks Pacific Rock Moss | 4 |
 | [GIS-AMBA](perfumes/GIS-AMBA) | Gisada Ambassador for Men | 4 |
 | [GRI-CHAN](perfumes/GRI-CHAN) | Gritti Chantilly EDP | 4 |
 | [GRI-POA](perfumes/GRI-POA) | Gritti Pomelo Assoluto | 4 |
@@ -239,5 +239,5 @@ Pasta de cada perfume em `perfumes/` e o nome completo. Links diretos no formato
 - `padrao/perfume-sempre-a-mao.jpg` — decant Casa dos Fracionados, formato compacto
 - `padrao/decant-casa-dos-fracionados.jpg` — foto do decant sozinho, centralizado
 
-A foto `4.jpg` contém a arte “Quando usar?” nos 193 perfumes atualizados. No Stant Aquae, a referência olfativa anterior foi preservada como `5.jpg`.
+A foto `4.jpg` contém a arte “Quando usar?” nos 195 perfumes atualizados. No Stant Aquae, a referência olfativa anterior foi preservada como `5.jpg`.
 
